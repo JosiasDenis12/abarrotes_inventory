@@ -1,7 +1,9 @@
 # Sistema de Gestión de Inventario para Abarrotes Tendejosn San Francisco
 
 <div align="center">
-  <img src="./web/img/logo.png" alt="InvenoSmart Logo" width="300"/>
+  <img src="./web/img/logo.png" alt="InvenoSmart - Sistema de Inventario" width="300"/>
+  <h1>Sistema de Gestión de Inventario</h1>
+  <p><strong>Abarrotes Tendejosn San Francisco</strong></p>
 </div>
 
 Este es un sistema de gestión de inventario robusto y fácil de usar, diseñado específicamente para optimizar las operaciones diarias de la tienda de abarrotes "Tendejosn San Francisco". Facilita la automatización de procesos clave, desde la gestión de productos hasta el control de stock y ventas.
