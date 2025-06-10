@@ -25,3 +25,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# additional files
+/.idea/
+/runtime/
+/web/assets/
+/vendor/
+/.env
+/.env.local
+/app/node_modules/
+/public/node_modules/
+/uploads/*
+/images/
+!/uploads/.gitkeep
+!/images/.gitkeep
